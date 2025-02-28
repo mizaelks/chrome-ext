@@ -1,0 +1,51 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "icons/logo.png"
+      }
+   },
+   "background": {
+      "service_worker": "js/background.js"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [  ],
+      "js": [ "js/content-script.js" ],
+      "matches": [ "*://*.instagram.com/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "css": [  ],
+      "js": [ "js/content-script-start.js" ],
+      "matches": [ "*://*.instagram.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "js/bulk-script.js" ],
+      "matches": [ "*://*.instagram.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "declarative_net_request": {
+      "rule_resources": [ {
+         "enabled": true,
+         "id": "ruleset_1",
+         "path": "rules_1.json"
+      } ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "host_permissions": [ "*://*.instagram.com/*", "*://*.facebook.com/*", "*://*.linkedradar.com/*" ],
+   "icons": {
+      "128": "icons/logo.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAophGMCtcnos9fj6YR4y/VOZNTuooSv2HdHPRP8d25wbDy2vJHzW5v0S85y/4LXAY1W2JhlOgpXYEMDl0tYcia8eVVCfmgz04bCnSLVA5ngVZOFwo5Kjx/k1QouTCVTYJ1ihA06ScCIpUSuaDCPGm3zYLBs2RfdP9s9K72OVIDG+c1DUskdC74QgbvbubREeDlpd8mOOXv7QQkY4Y8nSxv3lSV2vgzokf2ZDHUAqA/f/emMGgszkChIT0TtwpvcmLVbSu+BQXj7ogyhfNx7Z1vnDttl+8iRfTamEAy0+1ieGqIS/h5Qr+eJjMhl2igxQtgkn5daIVgSMeYKpBaJDoHQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_name__",
+   "options_page": "./app.html",
+   "permissions": [ "storage", "declarativeNetRequest", "declarativeNetRequestFeedback", "cookies", "alarms", "webRequest", "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.5.5",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*.instagram.com/*" ],
+      "resources": [ "js/ijsource.js", "js/bulk-ijsource.js", "inject/*" ]
+   } ]
+}

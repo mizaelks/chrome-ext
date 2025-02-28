@@ -1,0 +1,20 @@
+{
+   "description": {
+      "message": "Ērta lietotne, lai automātiski atbildētu uz pielāgotiem IG DM, kad ierodas jauns sekotājs vai jauns patīk."
+   },
+   "name": {
+      "message": "Lietotne IG DM"
+   },
+   "rateDialogDesc": {
+      "message": "Lūdzu, novērtējiet mūs! Tas mums ir ļoti svarīgi! Paldies:)"
+   },
+   "rateDialogNo": {
+      "message": "Varbūt nākamreiz"
+   },
+   "rateDialogTitle": {
+      "message": "Vai mūsu paplašinājums jums ir noderīgs?"
+   },
+   "rateDialogYes": {
+      "message": "Jā, protams"
+   }
+}

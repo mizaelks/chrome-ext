@@ -1,0 +1,20 @@
+{
+   "description": {
+      "message": "Kényelmes alkalmazás az egyéni IG DM-ek automatikus válaszolására, amikor új követő vagy új lájkoló érkezik."
+   },
+   "name": {
+      "message": "Alkalmazás IG DM-hez"
+   },
+   "rateDialogDesc": {
+      "message": "Kérjük, értékelj minket! Ez nagyon fontos számunkra! Köszönjük:)"
+   },
+   "rateDialogNo": {
+      "message": "Talán legközelebb"
+   },
+   "rateDialogTitle": {
+      "message": "Hasznos számodra a kiterjesztésünk?"
+   },
+   "rateDialogYes": {
+      "message": "Igen, természetesen"
+   }
+}

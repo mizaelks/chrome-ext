@@ -1,0 +1,20 @@
+{
+   "description": {
+      "message": "Praktisk app for å svare automatisk på tilpassede IG DM når en ny følger eller en ny liker kommer."
+   },
+   "name": {
+      "message": "APP For IG DM"
+   },
+   "rateDialogDesc": {
+      "message": "Vennligst vurder oss! Det er veldig viktig for oss! Takk:)"
+   },
+   "rateDialogNo": {
+      "message": "Kanskje neste gang"
+   },
+   "rateDialogTitle": {
+      "message": "Er utvidelsen vår nyttig for deg?"
+   },
+   "rateDialogYes": {
+      "message": "Ja, selvfølgelig"
+   }
+}

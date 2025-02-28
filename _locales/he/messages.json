@@ -1,0 +1,20 @@
+{
+   "description": {
+      "message": "אפליקציה נוחה לתגובה אוטומטית להודעות IG DM מותאמות אישית כאשר מגיע עוקב חדש או לייקר חדש."
+   },
+   "name": {
+      "message": "אפליקציה ל-IG DM"
+   },
+   "rateDialogDesc": {
+      "message": "אנא דרג אותנו! זה מאוד חשוב לנו! תודה:)"
+   },
+   "rateDialogNo": {
+      "message": "אולי בפעם הבאה"
+   },
+   "rateDialogTitle": {
+      "message": "האם ההרחבה שלנו שימושית עבורך?"
+   },
+   "rateDialogYes": {
+      "message": "כן, כמובן"
+   }
+}

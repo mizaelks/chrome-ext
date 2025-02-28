@@ -1,0 +1,20 @@
+{
+   "description": {
+      "message": "Mugav rakendus kohandatud IG DM automaatseks vastamiseks, kui tuleb uus jälgija või uus meeldija."
+   },
+   "name": {
+      "message": "Rakendus IG DM jaoks"
+   },
+   "rateDialogDesc": {
+      "message": "Palun hinnake meid! See on meie jaoks väga oluline! Aitäh:)"
+   },
+   "rateDialogNo": {
+      "message": "Võib-olla järgmine kord"
+   },
+   "rateDialogTitle": {
+      "message": "Kas meie laiendus on teile kasulik?"
+   },
+   "rateDialogYes": {
+      "message": "Jah, muidugi"
+   }
+}

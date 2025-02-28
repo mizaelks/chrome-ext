@@ -1,0 +1,20 @@
+{
+   "description": {
+      "message": "Kätevä sovellus automaattiseen vastaamiseen mukautettuihin IG DM-viesteihin, kun tulee uusi seuraaja tai uusi tykkääjä."
+   },
+   "name": {
+      "message": "Sovellus IG DM:lle"
+   },
+   "rateDialogDesc": {
+      "message": "Ole hyvä ja arvioi meidät! Se on meille erittäin tärkeää! Kiitos:)"
+   },
+   "rateDialogNo": {
+      "message": "Ehkä ensi kerralla"
+   },
+   "rateDialogTitle": {
+      "message": "Onko laajennuksemme hyödyllinen sinulle?"
+   },
+   "rateDialogYes": {
+      "message": "Kyllä, tietysti"
+   }
+}

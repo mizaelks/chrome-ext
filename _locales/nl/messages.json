@@ -1,0 +1,20 @@
+{
+   "description": {
+      "message": "Handige app om automatisch te reageren op aangepaste IG DM wanneer een nieuwe volger of een nieuwe liker arriveert."
+   },
+   "name": {
+      "message": "APP Voor IG DM"
+   },
+   "rateDialogDesc": {
+      "message": "Beoordeel ons alstublieft! Het is erg belangrijk voor ons! Bedankt:)"
+   },
+   "rateDialogNo": {
+      "message": "Misschien de volgende keer"
+   },
+   "rateDialogTitle": {
+      "message": "Is onze extensie nuttig voor u?"
+   },
+   "rateDialogYes": {
+      "message": "Ja, natuurlijk"
+   }
+}

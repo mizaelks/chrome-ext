@@ -1,0 +1,20 @@
+{
+   "description": {
+      "message": "Aplikasi praktis untuk membalas otomatis DM IG yang disesuaikan ketika ada pengikut baru atau penyuka baru."
+   },
+   "name": {
+      "message": "Aplikasi untuk IG DM"
+   },
+   "rateDialogDesc": {
+      "message": "Tolong beri kami rating! Ini sangat penting bagi kami! Terima kasih:)"
+   },
+   "rateDialogNo": {
+      "message": "Mungkin lain kali"
+   },
+   "rateDialogTitle": {
+      "message": "Apakah ekstensi kami berguna untuk Anda?"
+   },
+   "rateDialogYes": {
+      "message": "Ya, tentu saja"
+   }
+}

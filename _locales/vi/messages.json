@@ -1,0 +1,20 @@
+{
+   "description": {
+      "message": "Ứng dụng tiện lợi để tự động trả lời DM IG được tùy chỉnh khi có người theo dõi mới hoặc người thích mới."
+   },
+   "name": {
+      "message": "Ứng dụng cho IG DM"
+   },
+   "rateDialogDesc": {
+      "message": "Xin hãy đánh giá chúng tôi! Điều đó rất quan trọng đối với chúng tôi! Cảm ơn bạn:)"
+   },
+   "rateDialogNo": {
+      "message": "Có lẽ lần sau"
+   },
+   "rateDialogTitle": {
+      "message": "Tiện ích mở rộng của chúng tôi có hữu ích cho bạn không?"
+   },
+   "rateDialogYes": {
+      "message": "Có, tất nhiên"
+   }
+}

@@ -1,0 +1,20 @@
+{
+   "description": {
+      "message": "Aplicativo conveniente para responder automaticamente a DMs personalizados do IG quando um novo seguidor ou um novo curtidor chega."
+   },
+   "name": {
+      "message": "APP Para IG DM"
+   },
+   "rateDialogDesc": {
+      "message": "Por favor, avalie-nos! É muito importante para nós! Obrigado:)"
+   },
+   "rateDialogNo": {
+      "message": "Talvez da próxima vez"
+   },
+   "rateDialogTitle": {
+      "message": "Nossa extensão é útil para você?"
+   },
+   "rateDialogYes": {
+      "message": "Sim, claro"
+   }
+}

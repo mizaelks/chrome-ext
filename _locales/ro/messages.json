@@ -1,0 +1,20 @@
+{
+   "description": {
+      "message": "Aplicație convenabilă pentru a răspunde automat la mesajele personalizate IG DM atunci când vine un nou urmăritor sau un nou apreciator."
+   },
+   "name": {
+      "message": "APP Pentru IG DM"
+   },
+   "rateDialogDesc": {
+      "message": "Te rugăm să ne evaluezi! Este foarte important pentru noi! Mulțumim:)"
+   },
+   "rateDialogNo": {
+      "message": "Poate data viitoare"
+   },
+   "rateDialogTitle": {
+      "message": "Este extensia noastră utilă pentru tine?"
+   },
+   "rateDialogYes": {
+      "message": "Da, desigur"
+   }
+}

@@ -1,0 +1,20 @@
+{
+   "description": {
+      "message": "Pohodlná aplikace pro automatické odpovídání na přizpůsobené IG DM, když přijde nový follower nebo nový liker."
+   },
+   "name": {
+      "message": "APP Pro IG DM"
+   },
+   "rateDialogDesc": {
+      "message": "Prosím, ohodnoťte nás! Je to pro nás velmi důležité! Děkujeme:)"
+   },
+   "rateDialogNo": {
+      "message": "Možná příště"
+   },
+   "rateDialogTitle": {
+      "message": "Je naše rozšíření pro vás užitečné?"
+   },
+   "rateDialogYes": {
+      "message": "Ano, samozřejmě"
+   }
+}

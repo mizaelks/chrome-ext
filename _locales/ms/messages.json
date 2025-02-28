@@ -1,0 +1,20 @@
+{
+   "description": {
+      "message": "Aplikasi mudah untuk membalas secara automatik DM IG yang disesuaikan apabila pengikut baru atau penyuka baru tiba."
+   },
+   "name": {
+      "message": "APP Untuk IG DM"
+   },
+   "rateDialogDesc": {
+      "message": "Sila beri kami penilaian! Ia sangat penting untuk kami! Terima kasih:)"
+   },
+   "rateDialogNo": {
+      "message": "Mungkin lain kali"
+   },
+   "rateDialogTitle": {
+      "message": "Adakah sambungan kami berguna untuk anda?"
+   },
+   "rateDialogYes": {
+      "message": "Ya, sudah tentu"
+   }
+}

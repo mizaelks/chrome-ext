@@ -1,0 +1,20 @@
+{
+   "description": {
+      "message": "Patogi programa automatiškai atsakyti į pritaikytus IG DM, kai ateina naujas sekėjas arba naujas patikėjimas."
+   },
+   "name": {
+      "message": "Programėlė IG DM"
+   },
+   "rateDialogDesc": {
+      "message": "Prašome įvertinti mus! Tai mums labai svarbu! Ačiū:)"
+   },
+   "rateDialogNo": {
+      "message": "Gal kitą kartą"
+   },
+   "rateDialogTitle": {
+      "message": "Ar mūsų plėtinys jums naudingas?"
+   },
+   "rateDialogYes": {
+      "message": "Taip, žinoma"
+   }
+}

@@ -1,0 +1,20 @@
+{
+   "description": {
+      "message": "تطبيق مريح للرد التلقائي على رسائل IG DM المخصصة عند وصول متابع جديد أو إعجاب جديد."
+   },
+   "name": {
+      "message": "تطبيق لرسائل IG DM"
+   },
+   "rateDialogDesc": {
+      "message": "من فضلك قيمنا! هذا مهم جدًا بالنسبة لنا! شكرًا لك:)"
+   },
+   "rateDialogNo": {
+      "message": "ربما في المرة القادمة"
+   },
+   "rateDialogTitle": {
+      "message": "هل ملحقنا مفيد لك؟"
+   },
+   "rateDialogYes": {
+      "message": "نعم، بالطبع"
+   }
+}

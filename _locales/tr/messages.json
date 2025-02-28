@@ -1,0 +1,20 @@
+{
+   "description": {
+      "message": "Yeni bir takipçi veya yeni bir beğenen geldiğinde özelleştirilmiş IG DM'lere otomatik olarak yanıt vermek için kullanışlı uygulama."
+   },
+   "name": {
+      "message": "IG DM için Uygulama"
+   },
+   "rateDialogDesc": {
+      "message": "Lütfen bizi değerlendirin! Bu bizim için çok önemli! Teşekkürler:)"
+   },
+   "rateDialogNo": {
+      "message": "Belki bir dahaki sefere"
+   },
+   "rateDialogTitle": {
+      "message": "Eklentimiz sizin için yararlı mı?"
+   },
+   "rateDialogYes": {
+      "message": "Evet, tabii ki"
+   }
+}

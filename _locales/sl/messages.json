@@ -1,0 +1,20 @@
+{
+   "description": {
+      "message": "Priročna aplikacija za samodejno odgovarjanje na prilagojene IG DM, ko pride nov sledilec ali nov všečk."
+   },
+   "name": {
+      "message": "Aplikacija za IG DM"
+   },
+   "rateDialogDesc": {
+      "message": "Prosimo, ocenite nas! To je za nas zelo pomembno! Hvala:)"
+   },
+   "rateDialogNo": {
+      "message": "Morda naslednjič"
+   },
+   "rateDialogTitle": {
+      "message": "Je naša razširitev koristna za vas?"
+   },
+   "rateDialogYes": {
+      "message": "Da, seveda"
+   }
+}

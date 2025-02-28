@@ -1,0 +1,20 @@
+{
+   "description": {
+      "message": "새로운 팔로워나 새로운 좋아요가 오면 맞춤형 IG DM에 자동으로 답장하는 편리한 앱."
+   },
+   "name": {
+      "message": "IG DM용 앱"
+   },
+   "rateDialogDesc": {
+      "message": "우리를 평가해 주세요! 그것은 우리에게 매우 중요합니다! 감사합니다:)"
+   },
+   "rateDialogNo": {
+      "message": "아마도 다음에"
+   },
+   "rateDialogTitle": {
+      "message": "우리 확장 프로그램이 유용한가요?"
+   },
+   "rateDialogYes": {
+      "message": "네, 물론입니다"
+   }
+}

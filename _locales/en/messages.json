@@ -1,0 +1,20 @@
+{
+   "description": {
+      "message": "Convenient app to auto reply customized IG DM when a new follower or a new liker."
+   },
+   "name": {
+      "message": "APP For IG DM"
+   },
+   "rateDialogDesc": {
+      "message": "Please rate us! It is very important for us! Thank you:)"
+   },
+   "rateDialogNo": {
+      "message": "Maybe next time"
+   },
+   "rateDialogTitle": {
+      "message": "Our extension is useful for you?"
+   },
+   "rateDialogYes": {
+      "message": "Yes, of course"
+   }
+}

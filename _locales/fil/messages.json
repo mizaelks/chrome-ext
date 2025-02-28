@@ -1,0 +1,20 @@
+{
+   "description": {
+      "message": "Maginhawang app para sa awtomatikong pagsagot sa pasadyang IG DM kapag may bagong tagasunod o bagong nag-like."
+   },
+   "name": {
+      "message": "APP Para sa IG DM"
+   },
+   "rateDialogDesc": {
+      "message": "Mangyaring i-rate kami! Napakahalaga nito para sa amin! Salamat:)"
+   },
+   "rateDialogNo": {
+      "message": "Baka sa susunod"
+   },
+   "rateDialogTitle": {
+      "message": "Kapaki-pakinabang ba ang aming extension para sa iyo?"
+   },
+   "rateDialogYes": {
+      "message": "Oo, siyempre"
+   }
+}

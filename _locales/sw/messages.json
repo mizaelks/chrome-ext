@@ -1,0 +1,20 @@
+{
+   "description": {
+      "message": "Programu rahisi ya kujibu moja kwa moja DM za IG zilizobinafsishwa wakati mfuasi mpya au mpenzi mpya anapofika."
+   },
+   "name": {
+      "message": "Programu ya IG DM"
+   },
+   "rateDialogDesc": {
+      "message": "Tafadhali tufanye rating! Ni muhimu sana kwetu! Asante:)"
+   },
+   "rateDialogNo": {
+      "message": "Labda wakati mwingine"
+   },
+   "rateDialogTitle": {
+      "message": "Je, kifaa chetu ni muhimu kwako?"
+   },
+   "rateDialogYes": {
+      "message": "Ndio, bila shaka"
+   }
+}

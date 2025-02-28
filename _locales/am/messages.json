@@ -1,0 +1,20 @@
+{
+   "description": {
+      "message": "አዲስ ተከታይ ወይም አዲስ የወደደ ሲመጣ በብጁ IG DM ለማስተላለፍ ምቹ መተግበሪያ።"
+   },
+   "name": {
+      "message": "APP For IG DM"
+   },
+   "rateDialogDesc": {
+      "message": "እባክዎን ደረጃ ይስጡን! ለእኛ በጣም አስፈላጊ ነው! አመሰግናለሁ:)"
+   },
+   "rateDialogNo": {
+      "message": "ምናልባት በሚቀጥለው ጊዜ"
+   },
+   "rateDialogTitle": {
+      "message": "የእኛ መለጠፊያ ለእርስዎ ጠቃሚ ነው?"
+   },
+   "rateDialogYes": {
+      "message": "አዎ, በእርግጥ"
+   }
+}
